@@ -95,13 +95,13 @@ Result should look something like this:
           "to_place": {
             "state": {
               "Properties": {
-				"attached": "false",
-				"disarmed": "false",
-				"east": "true",
-				"north": "false",
-				"powered": "false",
-				"south": "false",
-				"west": "false"					
+		"attached": "false",
+		"disarmed": "false",
+		"east": "true",
+		"north": "false",
+		"powered": "false",
+		"south": "false",
+		"west": "false"					
               },
               "Name": "minecraft:tripwire"
             },
@@ -121,9 +121,9 @@ Same thing with noteblocks but with a few changes in "Properties" and "Name"
           "to_place": {
             "state": {
               "Properties": {
-				"instrument": "basedrum",
-				"note": "2",
-				"powered": "false"					
+		"instrument": "basedrum",
+		"note": "2",
+		"powered": "false"					
               },
               "Name": "minecraft:note_block"
             },
@@ -148,13 +148,13 @@ End result of "blueberry_bush" should look like this:
           "to_place": {
             "state": {
               "Properties": {
-				"attached": "false",
-				"disarmed": "false",
-				"east": "true",
-				"north": "false",
-				"powered": "false",
-				"south": "false",
-				"west": "false"					
+		"attached": "false",
+		"disarmed": "false",
+		"east": "true",
+		"north": "false",
+		"powered": "false",
+		"south": "false",
+		"west": "false"					
               },
               "Name": "minecraft:tripwire"
             },
